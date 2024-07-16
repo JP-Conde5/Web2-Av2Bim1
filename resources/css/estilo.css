@@ -1,0 +1,10 @@
+.navbar .navbar-nav {
+    display: inline-flex;
+}
+    
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.textoMenu {
+    color: blue;
+}
